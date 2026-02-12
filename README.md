@@ -30,11 +30,6 @@ Aplicação web desenvolvida com Python e Streamlit para gestão de relatórios 
 * **Capacidade:** Arquitetura *Multi-tenant* (suporte a múltiplas empresas isoladas).
 * **Foco:** Padronização de entregáveis técnicos e otimização do fluxo de informação entre campo e gerência.
 
-### 🌐 Reconcavo Net
-**Arquitetura de Soluções ISP**
-Arquitetura robusta para operações eficientes de provedor de internet com foco em monitoramento e automação.
-* **Componentes:** Monitoramento de infraestrutura, automação de provisionamento, gerenciamento de clientes.
-* **Objetivo:** Desenvolver ferramentas de suporte para operações de ISP, cobrindo estabilidade de rede e otimização de performance.
 
 ### 🤖 Denise_AI
 **Agente de IA Local**
